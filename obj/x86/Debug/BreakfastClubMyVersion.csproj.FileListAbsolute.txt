@@ -1,0 +1,13 @@
+/Users/liz/Projects/BreakfastClubMyVersion/BreakfastClubMyVersion/obj/x86/Debug/BreakfastClubMyVersion.csprojAssemblyReference.cache
+/Users/liz/Projects/BreakfastClubMyVersion/BreakfastClubMyVersion/obj/x86/Debug/BreakfastClubMyVersion.csproj.CoreCompileInputs.cache
+/Users/liz/Projects/BreakfastClubMyVersion/BreakfastClubMyVersion/bin/Debug/BreakfastClubMyVersion.exe
+/Users/liz/Projects/BreakfastClubMyVersion/BreakfastClubMyVersion/bin/Debug/BreakfastClubMyVersion.pdb
+/Users/liz/Projects/BreakfastClubMyVersion/BreakfastClubMyVersion/obj/x86/Debug/BreakfastClubMyVersion.exe
+/Users/liz/Projects/BreakfastClubMyVersion/BreakfastClubMyVersion/obj/x86/Debug/BreakfastClubMyVersion.pdb
+C:\Users\Eliza\Documents\BreakfastClubMyVersion\BreakfastClubMyVersion\bin\Debug\BreakfastClubMyVersion.exe.config
+C:\Users\Eliza\Documents\BreakfastClubMyVersion\BreakfastClubMyVersion\bin\Debug\BreakfastClubMyVersion.exe
+C:\Users\Eliza\Documents\BreakfastClubMyVersion\BreakfastClubMyVersion\bin\Debug\BreakfastClubMyVersion.pdb
+C:\Users\Eliza\Documents\BreakfastClubMyVersion\BreakfastClubMyVersion\obj\x86\Debug\BreakfastClubMyVersion.csprojAssemblyReference.cache
+C:\Users\Eliza\Documents\BreakfastClubMyVersion\BreakfastClubMyVersion\obj\x86\Debug\BreakfastClubMyVersion.csproj.CoreCompileInputs.cache
+C:\Users\Eliza\Documents\BreakfastClubMyVersion\BreakfastClubMyVersion\obj\x86\Debug\BreakfastClubMyVersion.exe
+C:\Users\Eliza\Documents\BreakfastClubMyVersion\BreakfastClubMyVersion\obj\x86\Debug\BreakfastClubMyVersion.pdb
